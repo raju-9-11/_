@@ -1,0 +1,14 @@
+.inputs_container{
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    margin: 20px;
+    border-radius: 25px;
+    width: 600px;
+    height: 300px;
+}
+.map_cantainer {
+    position:absolute; left:80px; top:20px;
+}
+.get_historical_container{
+    margin-top: 100px;
+    float: right;
+}

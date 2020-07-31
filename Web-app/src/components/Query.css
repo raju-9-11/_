@@ -1,0 +1,21 @@
+.demo-loadmore-list {
+    min-height: 350px;
+  }
+  .query_container {
+    padding: 30px;
+  }
+  .reply_container{
+    margin: 40px;
+  }
+  .list_item_container{
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: solid 20px;
+  }
+  .query_content_container{
+    border-left: solid 5px;
+  }
+  .page_header_container{
+    /* border-radius: 25px; */
+  }

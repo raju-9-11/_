@@ -1,0 +1,20 @@
+.site-page-header {
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    background-color: #EDF7F6;
+    color: #fff;
+
+}
+  .site-page-header-ghost-wrapper {
+  background-color: #f5f5f5;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 300px;
+  line-height: 160px;
+  background: #2660A4;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}

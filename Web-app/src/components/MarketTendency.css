@@ -1,0 +1,15 @@
+.card_container:hover{
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.card_container{
+    border-radius: 25px;
+}
+.market_tendency_container {
+    margin: 20px;
+}
+.search_container {
+    margin-bottom: 20px;
+}
+.get_market_report_container{
+    margin-bottom: 20px;
+}
